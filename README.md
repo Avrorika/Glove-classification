@@ -1,2 +1,3 @@
 # Glove-classification
-Spanish text classification
+Twitter Spanish misogynous text classification with Glove.
+
